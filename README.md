@@ -1,4 +1,4 @@
-# Pizza Landing page made with React
+# Pizza static Landing page made with React
 
 A Pizza Site built with React.
 
